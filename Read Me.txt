@@ -18,3 +18,5 @@ Step 2: File>>Import>>General>>Existing Projects into Workspace
 Step 3: choose the unziped directory, like "test", click ok.
 Step 4: the project's name is "ConferenceManagement"
 Step 5: run the "com.spl.conferencemanagement.bootstrap.Main.java" to start to process
+Step 6: you can run test case by runing ALLtest
+Step END
